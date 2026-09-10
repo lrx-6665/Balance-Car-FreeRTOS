@@ -8,9 +8,14 @@
 
 ## 演示
 
-![演示](docs/images/demo.gif)
+实车照片（江协平衡车硬件，OLED 显示当前版本）：
 
-> TODO: 演示效果等成功上次github完成，我自行添加上去
+![实车](docs/images/car.jpg)
+
+演示视频（点击后可在 GitHub 页面内播放）：
+
+- [演示视频 1](docs/videos/demo-1.mp4)
+- [演示视频 2](docs/videos/demo-2.mp4)
 
 ## 硬件平台
 
@@ -120,7 +125,9 @@ Balence/
 ├── MDK-ARM/
 │   ├── Balence.uvprojx      # Keil 工程
 │   └── startup_stm32f103xb.s
-├── docs/images/             # 演示 GIF（请放入 demo.gif）
+├── docs/
+│   ├── images/car.jpg       # 实车照片
+│   └── videos/              # 站立 / 遥控演示视频
 ├── Balence.ioc              # STM32CubeMX 工程
 ├── README.md
 └── LICENSE

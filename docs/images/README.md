@@ -1,7 +1,2 @@
-请将演示 GIF 放到本目录，并命名为：
-
-```
-docs/images/demo.gif
-```
-
-README 首页会通过 `![演示](docs/images/demo.gif)` 引用该文件。
+- `car.jpg`：实车照片，README「演示」一节引用。
+- 视频在上一级 `docs/videos/`：`demo-1.mp4`、`demo-2.mp4`。
