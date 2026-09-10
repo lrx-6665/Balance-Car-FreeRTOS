@@ -120,17 +120,11 @@ Balence/
 ├── MDK-ARM/
 │   ├── Balence.uvprojx      # Keil 工程
 │   └── startup_stm32f103xb.s
-├── docs/
-│   ├── 调试纪要.md          # 面试用：问题、对照实验、否决项
-│   └── images/              # 演示 GIF（请放入 demo.gif）
+├── docs/images/             # 演示 GIF（请放入 demo.gif）
 ├── Balence.ioc              # STM32CubeMX 工程
 ├── README.md
 └── LICENSE
 ```
-
-## 相关文档
-
-- [调试纪要（面试一页纸）](docs/调试纪要.md)：分阶段踩坑、PID 对照实验、禁止再改的项。
 
 ## 编译与烧录
 
