@@ -1,2 +1,3 @@
-- `car.jpg`：实车照片，README「演示」一节引用。
-- 视频在上一级 `docs/videos/`：`demo-1.mp4`、`demo-2.mp4`。
+- `car.jpg`：实车照片
+- `demo-1.gif` / `demo-2.gif`：前 8 秒动态演示，README 首页直接显示
+- 完整视频在 `docs/videos/`（H.264，便于 GitHub 预览）

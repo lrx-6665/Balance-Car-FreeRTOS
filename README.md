@@ -8,14 +8,20 @@
 
 ## 演示
 
-实车照片（江协平衡车硬件，OLED 显示当前版本）：
+实车照片：
 
 ![实车](docs/images/car.jpg)
 
-演示视频（点击后可在 GitHub 页面内播放）：
+动态演示（首页直接播放）：
 
-- [演示视频 1](docs/videos/demo-1.mp4)
-- [演示视频 2](docs/videos/demo-2.mp4)
+![演示1](docs/images/demo-1.gif)
+
+![演示2](docs/images/demo-2.gif)
+
+完整视频（已转为 H.264，体积较小；点开即可播放或下载）：
+
+- [演示视频 1（约 38 秒）](docs/videos/demo-1.mp4)
+- [演示视频 2（约 10 秒）](docs/videos/demo-2.mp4)
 
 ## 硬件平台
 
@@ -126,8 +132,8 @@ Balence/
 │   ├── Balence.uvprojx      # Keil 工程
 │   └── startup_stm32f103xb.s
 ├── docs/
-│   ├── images/car.jpg       # 实车照片
-│   └── videos/              # 站立 / 遥控演示视频
+│   ├── images/              # 实车照片、演示 GIF
+│   └── videos/              # H.264 演示视频
 ├── Balence.ioc              # STM32CubeMX 工程
 ├── README.md
 └── LICENSE
