@@ -1,3 +1,2 @@
 - `car.jpg`：实车照片
-- `demo-1.gif` / `demo-2.gif`：前 8 秒动态演示，README 首页直接显示
-- 完整视频在 `docs/videos/`（H.264，便于 GitHub 预览）
+- 演示视频已改为 B 站链接，见仓库根目录 `README.md`

@@ -12,16 +12,17 @@
 
 ![实车](docs/images/car.jpg)
 
-动态演示（首页直接播放）：
+B 站演示视频（点击封面跳转播放）：
 
-![演示1](docs/images/demo-1.gif)
+[![平衡小车站立效果展示](https://i2.hdslb.com/bfs/archive/b20693cf069f7f846267fe13db19d3e0bb0fb25c.jpg)](https://www.bilibili.com/video/BV15SYu6iEiS)
 
-![演示2](docs/images/demo-2.gif)
+- [平衡小车站立效果展示](https://www.bilibili.com/video/BV15SYu6iEiS)（约 11 秒）
 
-完整视频（已转为 H.264，体积较小；点开即可播放或下载）：
+[![平衡小车蓝牙控制展示效果](https://i0.hdslb.com/bfs/archive/be88fe439cbb614a03720341effed42f010417d9.jpg)](https://www.bilibili.com/video/BV1VSYu6iEZf)
 
-- [演示视频 1（约 38 秒）](docs/videos/demo-1.mp4)
-- [演示视频 2（约 10 秒）](docs/videos/demo-2.mp4)
+- [平衡小车蓝牙控制展示效果](https://www.bilibili.com/video/BV1VSYu6iEZf)（约 38 秒）
+
+账号空间：[bili_77888709002](https://space.bilibili.com/1374157254)
 
 ## 硬件平台
 
